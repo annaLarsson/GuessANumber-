@@ -1,3 +1,4 @@
 # GuessANumber-
-This is an  konsolapp för C # , det är ett litet spel där man gissar ett nummer.
-Testar vad som behövs läggas upp!
+This is an  console app för C# , and it's a small game. You guess a number.
+I'm try to figure out what you need to push up in C#!
+I'm using Visual Sudio 2019 for coding.
